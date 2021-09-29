@@ -1,2 +1,2 @@
-# 3Speak-research
-The 3Speak research repository
+# SPK Research
+The SPK Research repository
